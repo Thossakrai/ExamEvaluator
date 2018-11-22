@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>Picture/ic_logo_flat_hi.png</file>
+  </qresource>
+</RCC>
